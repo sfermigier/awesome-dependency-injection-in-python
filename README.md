@@ -18,8 +18,9 @@
 
 #### DI Containers
 
-- [Injector](https://github.com/alecthomas/injector): Python dependency injection framework, inspired by Guice
-- [Punq](https://github.com/bobthemighty/punq): An IoC container for Python 3.6+
+- [Injector](https://github.com/alecthomas/injector): "Python dependency injection framework, inspired by Guice".
+- [Punq](https://github.com/bobthemighty/punq): "An IoC container for Python 3.6+."
+- [Dependencies](https://github.com/dry-python/dependencies): "Dependency Injection for Humans."
 - [Wiring](https://github.com/msiedlarek/wiring): Architectural foundation for Python applications. (Unmaintained).
 
 
