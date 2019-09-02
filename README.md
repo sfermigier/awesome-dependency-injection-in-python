@@ -21,6 +21,7 @@
 - [Injector](https://github.com/alecthomas/injector): "Python dependency injection framework, inspired by Guice".
 - [Punq](https://github.com/bobthemighty/punq): "An IoC container for Python 3.6+."
 - [Dependencies](https://github.com/dry-python/dependencies): "Dependency Injection for Humans."
+- [Antidote](https://github.com/Finistere/antidote): "Dependency injection for Python"
 - [Wiring](https://github.com/msiedlarek/wiring): Architectural foundation for Python applications. (Unmaintained).
 
 
