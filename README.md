@@ -15,9 +15,9 @@
 
 - [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book), see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
 
-### Frameworks
+### Software
 
-#### DI Containers
+#### DI Frameworks
 
 - [Injector](https://github.com/alecthomas/injector): "Python dependency injection framework, inspired by Guice".
 - [Punq](https://github.com/bobthemighty/punq): "An IoC container for Python 3.6+."
