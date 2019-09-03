@@ -28,6 +28,7 @@
 - [Serum](https://github.com/suned/serum): "Dependency injection framework for Python 3.6"
 - [Aiodine](https://github.com/bocadilloproject/aiodine): "Async-first Python dependency injection library"
 - [Wiring](https://github.com/msiedlarek/wiring): Architectural foundation for Python applications. (Unmaintained).
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector): "Dependency injection microframework for Python"
 
 
 ### Integration with web frameworks
