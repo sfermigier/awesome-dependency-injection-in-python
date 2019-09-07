@@ -2,9 +2,10 @@
 
 > A curated list of awesome things related to dependency inversion / dependency injection in Python.
 
-## Talks
+## Talks / slides
 
-- [Python Dependency Injection](http://www.aleax.it/yt_pydi.pdf) (Alex Martelli, 2008)
+- **Python Dependency Injection** [(PDF)](http://www.aleax.it/yt_pydi.pdf) (Alex Martelli, 2008).
+- Fang: Pythonic dependency injection [(video)](https://www.youtube.com/watch?v=zqRd941NXlI&t=443s) (Nathan Craike, 2015). 
 
 ## Articles / blog posts
 
