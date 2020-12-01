@@ -32,6 +32,8 @@
 - [Wiring](https://github.com/msiedlarek/wiring): Architectural foundation for Python applications. (Unmaintained).
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector): "Dependency injection microframework for Python"
 - [Rodi](https://github.com/RobertoPrevato/rodi): dependency injection for Python 3.
+- [Lagom](https://lagom-di.readthedocs.io/en/latest/): Type based auto-wiring dependency injection with support for async and threading.
+
 
 
 ### Integration with web frameworks
