@@ -31,6 +31,7 @@
 - [Aiodine](https://github.com/bocadilloproject/aiodine): "Async-first Python dependency injection library"
 - [Wiring](https://github.com/msiedlarek/wiring): Architectural foundation for Python applications. (Unmaintained).
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector): "Dependency injection microframework for Python"
+- [Rodi](https://github.com/RobertoPrevato/rodi): dependency injection for Python 3.
 
 
 ### Integration with web frameworks
