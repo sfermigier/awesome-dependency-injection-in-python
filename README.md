@@ -2,6 +2,8 @@
 
 > A curated list of awesome things related to dependency inversion / dependency injection in Python.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 ## Talks / slides
 
