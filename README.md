@@ -17,19 +17,19 @@
 - [Pythonic Dependency Injection: A Practical Guide](https://medium.com/@suneandreasdybrodebel/pythonic-dependency-injection-a-practical-guide-83a1b1299280) (Sune Andreas Dybro Debel, 2018)
 - [Elegant Flask API Development Part 1](https://christophergs.github.io/python/2018/09/25/elegant-flask-apis-pt-1/) (mostly covers Flask-Injector).
 - ["(pytest) Fixtures: a prime example of dependency injection"](https://docs.pytest.org/en/latest/fixture.html#fixtures-a-prime-example-of-dependency-injection)
-- [Tests and comparison of Python dependency injection libraries](https://github.com/orsinium/dependency_injectors)
+- [Tests and comparison of Python dependency injection libraries](https://github.com/orsinium/dependency_injectors) ★2
 
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book), see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★1465, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
 
 
 ## Software
 
 ### DI Frameworks
 
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★982: "Dependency injection microframework for Python"
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★987: "Dependency injection microframework for Python"
 - [Injector](https://github.com/alecthomas/injector) ★611: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★414: Python dependency injection
 - [Dependencies](https://github.com/dry-python/dependencies) ★229: "Dependency Injection for Humans."
