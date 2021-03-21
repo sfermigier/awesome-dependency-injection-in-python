@@ -29,6 +29,7 @@
 
 ### DI Frameworks
 
+- [returns](https://github.com/dry-python/returns) ★1616: "Make your functions return something meaningful, typed, and safe!"
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★987: "Dependency injection microframework for Python"
 - [Injector](https://github.com/alecthomas/injector) ★611: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★414: Python dependency injection
