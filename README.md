@@ -23,26 +23,26 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2209, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2233, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
 
 
 ## Software
 
 ### DI Frameworks
 
-- [returns](https://github.com/dry-python/returns) ★1962: "Make your functions return something meaningful, typed, and safe!"
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★1686: "Dependency injection microframework for Python"
-- [Injector](https://github.com/alecthomas/injector) ★736: "Python dependency injection framework, inspired by Guice".
-- [Inject](https://github.com/ivankorobkov/python-inject) ★481: Python dependency injection
+- [returns](https://github.com/dry-python/returns) ★1974: "Make your functions return something meaningful, typed, and safe!"
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★1692: "Dependency injection microframework for Python"
+- [Injector](https://github.com/alecthomas/injector) ★738: "Python dependency injection framework, inspired by Guice".
+- [Inject](https://github.com/ivankorobkov/python-inject) ★482: Python dependency injection
 - [Dependencies](https://github.com/dry-python/dependencies) ★278: "Dependency Injection for Humans."
-- [Punq](https://github.com/bobthemighty/punq) ★116: "An IoC container for Python 3.6+."
+- [Punq](https://github.com/bobthemighty/punq) ★117: "An IoC container for Python 3.6+."
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Antidote](https://github.com/Finistere/antidote) ★29: "Dependency injection for Python"
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★26: Dependency injection for Python 3.
 
 #### Archived or unmaintained
 
-- [Serum](https://github.com/suned/serum) ★82: "Dependency injection framework for Python 3.6"
+- [Serum](https://github.com/suned/serum) ★81: "Dependency injection framework for Python 3.6"
 - [Aiodine](https://github.com/bocadilloproject/aiodine) ★53: "Async-first Python dependency injection library"
 - [Wiring](https://github.com/msiedlarek/wiring) ★30: Architectural foundation for Python applications. (Unmaintained).
 
