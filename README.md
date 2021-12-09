@@ -39,6 +39,7 @@
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Antidote](https://github.com/Finistere/antidote) ★29: "Dependency injection for Python"
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★26: Dependency injection for Python 3.
+- [injectable](https://github.com/allrod5/injectable) ★64: "Injectable: Dependency Injection for Humans™"
 
 #### Archived or unmaintained
 
