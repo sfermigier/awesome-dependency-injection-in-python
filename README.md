@@ -36,11 +36,11 @@
 - [Inject](https://github.com/ivankorobkov/python-inject) ★531: Python dependency injection
 - [Dependencies](https://github.com/dry-python/dependencies) ★313: "Dependency Injection for Humans."
 - [Punq](https://github.com/bobthemighty/punq) ★161: "An IoC container for Python 3.6+."
-- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [di](https://github.com/adriangb/di) ★117: Pythonic dependency injection
-- [Antidote](https://github.com/Finistere/antidote) ★77: "Dependency injection for Python"
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★52: Dependency injection for Python 3.
 - [injectable](https://github.com/allrod5/injectable) ★83: "Injectable: Dependency Injection for Humans™"
+- [Antidote](https://github.com/Finistere/antidote) ★77: "Dependency injection for Python"
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★52: Dependency injection for Python 3 (used by the BlackSheep web framework).
+- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 
 #### Archived or unmaintained
 
