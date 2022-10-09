@@ -23,19 +23,19 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2723, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2724, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
 
 
 ## Software
 
 ### DI Frameworks
 
-- [returns](https://github.com/dry-python/returns) ★2434: "Make your functions return something meaningful, typed, and safe!". Part of the [dry-python](https://github.com/dry-python) ecosystem.
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2405: "Dependency injection microframework for Python"
+- [returns](https://github.com/dry-python/returns) ★2435: "Make your functions return something meaningful, typed, and safe!". Part of the [dry-python](https://github.com/dry-python) ecosystem.
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2409: "Dependency injection microframework for Python"
 - [Injector](https://github.com/alecthomas/injector) ★840: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★531: Python dependency injection
 - [Dependencies](https://github.com/proofit404/dependencies) ★313: "Dependency Injection for Humans."
-- [Punq](https://github.com/bobthemighty/punq) ★161: "An IoC container for Python 3.6+."
+- [Punq](https://github.com/bobthemighty/punq) ★162: "An IoC container for Python 3.6+."
 - [di](https://github.com/adriangb/di) ★117: Pythonic dependency injection. Used by (and developped for) the [Xpresso](https://xpresso-api.dev/) Web framework.
 - [injectable](https://github.com/allrod5/injectable) ★83: "Injectable: Dependency Injection for Humans™"
 - [Antidote](https://github.com/Finistere/antidote) ★77: "Dependency injection for Python"
