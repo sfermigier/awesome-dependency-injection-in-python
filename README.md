@@ -30,16 +30,16 @@
 
 ### DI Frameworks
 
-- [returns](https://github.com/dry-python/returns) ★2434: "Make your functions return something meaningful, typed, and safe!"
+- [returns](https://github.com/dry-python/returns) ★2434: "Make your functions return something meaningful, typed, and safe!". Part of the [dry-python](https://github.com/dry-python) ecosystem.
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2405: "Dependency injection microframework for Python"
 - [Injector](https://github.com/alecthomas/injector) ★840: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★531: Python dependency injection
-- [Dependencies](https://github.com/dry-python/dependencies) ★313: "Dependency Injection for Humans."
+- [Dependencies](https://github.com/proofit404/dependencies) ★313: "Dependency Injection for Humans."
 - [Punq](https://github.com/bobthemighty/punq) ★161: "An IoC container for Python 3.6+."
-- [di](https://github.com/adriangb/di) ★117: Pythonic dependency injection
+- [di](https://github.com/adriangb/di) ★117: Pythonic dependency injection. Used by (and developped for) the [Xpresso](https://xpresso-api.dev/) Web framework.
 - [injectable](https://github.com/allrod5/injectable) ★83: "Injectable: Dependency Injection for Humans™"
 - [Antidote](https://github.com/Finistere/antidote) ★77: "Dependency injection for Python"
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★52: Dependency injection for Python 3 (used by the BlackSheep web framework).
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★52: Dependency injection for Python 3 (used by, and developped for, the [BlackSheep](https://github.com/Neoteroi/BlackSheep) web framework).
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 
 #### Archived or unmaintained
