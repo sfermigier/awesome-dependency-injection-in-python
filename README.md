@@ -34,7 +34,7 @@
 - [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2409: "Dependency injection microframework for Python"
 - [Injector](https://github.com/alecthomas/injector) ★840: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★531: Python dependency injection
-- [Dependencies](https://github.com/proofit404/dependencies) ★313: "Dependency Injection for Humans."
+- [Dependencies](https://github.com/proofit404/dependencies) ★313: "Constructor injection designed with OOP in mind."
 - [Punq](https://github.com/bobthemighty/punq) ★162: "An IoC container for Python 3.6+."
 - [di](https://github.com/adriangb/di) ★117: Pythonic dependency injection. Used by (and developped for) the [Xpresso](https://xpresso-api.dev/) Web framework.
 - [injectable](https://github.com/allrod5/injectable) ★83: "Injectable: Dependency Injection for Humans™"
