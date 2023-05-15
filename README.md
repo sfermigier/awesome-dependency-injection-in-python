@@ -23,28 +23,39 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2957, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★2959, see specially this chapter: [Dependency Injection (And Mocks)](https://github.com/python-leap/book/blob/master/chapter_12_dependency_injection.asciidoc)
 
 
 ## Software
 
 ### DI Frameworks
 
-- [returns](https://github.com/dry-python/returns) ★2738: "Make your functions return something meaningful, typed, and safe!". Part of the [dry-python](https://github.com/dry-python) ecosystem.
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2888: "Dependency injection microframework for Python"
-- [Injector](https://github.com/alecthomas/injector) ★946: "Python dependency injection framework, inspired by Guice".
+- [returns](https://github.com/dry-python/returns) ★2740: "Make your functions return something meaningful, typed, and safe!". Part of the [dry-python](https://github.com/dry-python) ecosystem.
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2894: "Dependency injection microframework for Python"
+- [Injector](https://github.com/alecthomas/injector) ★947: "Python dependency injection framework, inspired by Guice".
 - [Inject](https://github.com/ivankorobkov/python-inject) ★556: Python dependency injection
 - [Dependencies](https://github.com/proofit404/dependencies) ★335: "Constructor injection designed with OOP in mind."
-- [Punq](https://github.com/bobthemighty/punq) ★226: "An IoC container for Python 3.6+."
+- [Punq](https://github.com/bobthemighty/punq) ★227: "An IoC container for Python 3.6+."
 - [di](https://github.com/adriangb/di) ★189: Pythonic dependency injection. Used by (and developped for) the [Xpresso](https://xpresso-api.dev/) Web framework.
 - [injectable](https://github.com/allrod5/injectable) ★94: "Injectable: Dependency Injection for Humans™"
 - [Antidote](https://github.com/Finistere/antidote) ★84: "Dependency injection for Python"
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★80: Dependency injection for Python 3 (used by, and developped for, the [BlackSheep](https://github.com/Neoteroi/BlackSheep) web framework).
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
-- [Bevy](https://github.com/ZechCodes/Bevy) ★19: "Bevy makes using Dependency Injection in Python a breeze so that you can focus on creating amazing code."
+- [Bevy](https://github.com/ZechCodes/Bevy) ★22: "Bevy makes using Dependency Injection in Python a breeze so that you can focus on creating amazing code."
 
 
-#### Archived or unmaintained
+### DI components of Web frameworks
+
+Several modern Python web frameworks include DI components, including:
+
+- FastAPI -> [Dependencies - First Steps](https://fastapi.tiangolo.com/tutorial/dependencies/).
+- Litestar -> [Dependency Injection](https://docs.litestar.dev/2/usage/dependency-injection.html)
+- Xpresso -> [di](https://github.com/adriangb/di) (see above)
+- Blacksheep -> [Rodi](https://github.com/RobertoPrevato/rodi) (see above)
+- Aiodine (dead, see below) was the DI framework for the Bocadillo project (also dead)
+
+
+#### Archived or unmaintained DI frameworks
 
 - [Serum](https://github.com/suned/serum) ★84: "Dependency injection framework for Python 3.6" (unmaintained)
 - [Aiodine](https://github.com/bocadilloproject/aiodine) ★54: "Async-first Python dependency injection library" (unmaintained)
@@ -55,3 +66,5 @@
 
 - [Flask-Injector](https://github.com/alecthomas/flask_injector) ★246: Adds Injector support to Flask.
 - [Pyramid-Wiring](https://github.com/veeti/pyramid_wiring) ★0: integration of Wiring and Pyramid (unmaintained).
+
+See also above.
