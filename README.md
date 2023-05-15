@@ -49,7 +49,8 @@
 Several modern Python web frameworks include DI components, including:
 
 - FastAPI -> [Dependencies - First Steps](https://fastapi.tiangolo.com/tutorial/dependencies/).
-- Litestar -> [Dependency Injection](https://docs.litestar.dev/2/usage/dependency-injection.html)
+- Litestar -> [Dependency Injection](https://docs.litestar.dev/2/usage/dependency-injection.html).
+- Sanic -> [https://sanic.dev/en/plugins/sanic-ext/injection.html](https://sanic.dev/en/plugins/sanic-ext/injection.html).
 - Xpresso -> [di](https://github.com/adriangb/di) (see above)
 - Blacksheep -> [Rodi](https://github.com/RobertoPrevato/rodi) (see above)
 - Aiodine (dead, see below) was the DI framework for the Bocadillo project (also dead)
