@@ -42,6 +42,7 @@
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★80: Dependency injection for Python 3 (used by, and developped for, the [BlackSheep](https://github.com/Neoteroi/BlackSheep) web framework).
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Bevy](https://github.com/ZechCodes/Bevy) ★22: "Bevy makes using Dependency Injection in Python a breeze so that you can focus on creating amazing code."
+- [Kink](https://github.com/kodemore/kink) ★211: "Dependency injection container made for Python"
 
 
 ### DI components of Web frameworks
