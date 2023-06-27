@@ -35,14 +35,14 @@
 - [Injector](https://github.com/alecthomas/injector) ★977 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [Inject](https://github.com/ivankorobkov/python-inject) ★560 - Python dependency injection. [🐍, Apache License 2.0].
 - [Dependencies](https://github.com/proofit404/dependencies) ★338 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
-- [Kink](https://github.com/kodemore/kink) ★212 - Dependency injection container made for Python. [🐍, MIT License].
 - [Punq](https://github.com/bobthemighty/punq) ★230 - An IoC container for Python 3.6+. [🐍, MIT License].
+- [Kink](https://github.com/kodemore/kink) ★212 - Dependency injection container made for Python. [🐍, MIT License].
 - [di](https://github.com/adriangb/di) ★197 - Pythonic dependency injection. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★95 - Python Dependency Injection for Humans™. [🐍, MIT License].
-- [Antidote](https://github.com/Finistere/antidote) ★84 - Dependency injection for Python. [🐍, MIT License].
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★87 - Implementation of dependency injection for Python 3. [🐍, MIT License].
-- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
+- [Antidote](https://github.com/Finistere/antidote) ★84 - Dependency injection for Python. [🐍, MIT License].
 - [Bevy](https://github.com/ZechCodes/Bevy) ★51 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
+- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 
 
 ### DI components of Web frameworks
