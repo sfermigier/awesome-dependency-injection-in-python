@@ -23,25 +23,25 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3004 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3013 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
 
 
 ## Software
 
 ### DI Frameworks
 
-- [returns](https://github.com/dry-python/returns) ★2799 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★2992 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Injector](https://github.com/alecthomas/injector) ★977 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Inject](https://github.com/ivankorobkov/python-inject) ★560 - Python dependency injection. [🐍, Apache License 2.0].
-- [Dependencies](https://github.com/proofit404/dependencies) ★338 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
+- [returns](https://github.com/dry-python/returns) ★2826 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3025 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Injector](https://github.com/alecthomas/injector) ★981 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Inject](https://github.com/ivankorobkov/python-inject) ★563 - Python dependency injection. [🐍, Apache License 2.0].
+- [Dependencies](https://github.com/proofit404/dependencies) ★339 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
 - [Punq](https://github.com/bobthemighty/punq) ★230 - An IoC container for Python 3.6+. [🐍, MIT License].
-- [Kink](https://github.com/kodemore/kink) ★212 - Dependency injection container made for Python. [🐍, MIT License].
-- [di](https://github.com/adriangb/di) ★197 - Pythonic dependency injection. [🐍, MIT License].
-- [injectable](https://github.com/allrod5/injectable) ★95 - Python Dependency Injection for Humans™. [🐍, MIT License].
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★87 - Implementation of dependency injection for Python 3. [🐍, MIT License].
+- [Kink](https://github.com/kodemore/kink) ★216 - Dependency injection container made for Python. [🐍, MIT License].
+- [di](https://github.com/adriangb/di) ★198 - Pythonic dependency injection. [🐍, MIT License].
+- [injectable](https://github.com/allrod5/injectable) ★96 - Python Dependency Injection for Humans™. [🐍, MIT License].
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★91 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★84 - Dependency injection for Python. [🐍, MIT License].
-- [Bevy](https://github.com/ZechCodes/Bevy) ★51 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
+- [Bevy](https://github.com/ZechCodes/Bevy) ★55 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 
 
@@ -57,7 +57,7 @@ Several modern Python web frameworks include DI components, including:
 - Aiodine (dead, see below) was the DI framework for the Bocadillo project (also dead)
 
 
-#### Archived or unmaintained DI frameworks
+### Archived or unmaintained DI frameworks
 
 - [Serum](https://github.com/suned/serum) ★84 - Dependency injection framework for Python 3.6. [🐍, MIT License].
 - [Aiodine](https://github.com/bocadilloproject/aiodine) ★54 - 🧪 Async-first Python dependency injection library. [🐍, MIT License].
@@ -66,7 +66,7 @@ Several modern Python web frameworks include DI components, including:
 
 ### Integration with web frameworks
 
-- [Flask-Injector](https://github.com/alecthomas/flask_injector) ★246 - Adds Injector support to Flask. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Flask-Injector](https://github.com/alecthomas/flask_injector) ★247 - Adds Injector support to Flask. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [Pyramid-Wiring](https://github.com/veeti/pyramid_wiring) ★0 - . [🐍, MIT License].
 
 See also above.
