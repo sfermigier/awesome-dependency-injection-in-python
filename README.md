@@ -43,6 +43,7 @@
 - [svcs](https://github.com/hynek/svcs) ★97 -  A Flexible Service Locator for Python. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★87 - Dependency injection for Python. [🐍, MIT License].
 - [Bevy](https://github.com/ZechCodes/Bevy) ★62 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
+- [Opyoid](https://github.com/illuin-tech/opyoid) ★53 - Dependency injection library using typings, to easily manage large applications. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 
 
