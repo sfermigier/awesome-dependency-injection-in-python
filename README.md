@@ -45,6 +45,7 @@
 - [Bevy](https://github.com/ZechCodes/Bevy) ★62 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★53 - Dependency injection library using typings, to easily manage large applications. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
+- [Wireup](https://github.com/maldoinc/wireup) ★17: Concise, Powerful, and Type-Safe Dependency Injection for Python 3.8+ [🐍, MIT License].
 
 
 ### DI components of Web frameworks
@@ -69,6 +70,7 @@ Several modern Python web frameworks include DI components, including:
 ### Integration with web frameworks
 
 - [Flask-Injector](https://github.com/alecthomas/flask_injector) ★261 - Adds Injector support to Flask. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Wireup](https://github.com/maldoinc/wireup) ★17: Provides first-party integration for Flask
 - [Pyramid-Wiring](https://github.com/veeti/pyramid_wiring) ★0 - . [🐍, MIT License].
 
 See also above.
