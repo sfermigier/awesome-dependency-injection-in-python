@@ -46,6 +46,7 @@
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★54 - Dependency injection library using typings, to easily manage large applications. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Wireup](https://github.com/maldoinc/wireup) ★18: Concise, Powerful, and Type-Safe Dependency Injection for Python 3.8+ [🐍, MIT License].
+- [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★17: A lightweight, stupidly simple DI framework for Python 3.6+ [🐍, MIT License].
 
 
 ### DI components of Web frameworks
