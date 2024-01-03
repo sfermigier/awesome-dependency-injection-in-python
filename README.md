@@ -40,16 +40,16 @@
 - [Kink](https://github.com/kodemore/kink) ★280 - Dependency injection container made for Python. [🐍, MIT License].
 - [Punq](https://github.com/bobthemighty/punq) ★254 - An IoC container for Python 3.6+. [🐍, MIT License].
 - [di](https://github.com/adriangb/di) ★251 - Pythonic dependency injection. [🐍, MIT License].
-- [svcs](https://github.com/hynek/svcs) ★152 -  A Flexible Service Locator for Python. [🐍, MIT License].
+- [svcs](https://github.com/hynek/svcs) ★152 - A Flexible Service Locator for Python. [🐍, MIT License].
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★124 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★101 - Python Dependency Injection for Humans™. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★90 - Dependency injection for Python. [🐍, MIT License].
 - [Bevy](https://github.com/ZechCodes/Bevy) ★67 - A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. [🐍, MIT License].
-- [Opyoid](https://github.com/illuin-tech/opyoid) ★56 - Dependency injection library using typings, to easily manage large applications. [🐍, MIT License].
-- [Wireup](https://github.com/maldoinc/wireup) ★35: Concise, Powerful, and Type-Safe Dependency Injection for Python 3.8+ [🐍, MIT License].
+- [Opyoid](https://github.com/illuin-tech/opyoid) ★56 - Dependency injection library for Python. [🐍, MIT License].
+- [Wireup](https://github.com/maldoinc/wireup) ★35 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
-- [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★17: A lightweight, stupidly simple DI framework for Python 3.6+ [🐍, MIT License].
-- [andi](https://github.com/scrapinghub/andi) ★17 - Library for annotation-based dependency injection
+- [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★17 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
+- [andi](https://github.com/scrapinghub/andi) ★17 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
 
 
 ### DI components of Web frameworks
@@ -74,8 +74,8 @@ Several modern Python web frameworks include DI components, including:
 ### Integration with web frameworks
 
 - [Flask-Injector](https://github.com/alecthomas/flask_injector) ★263 - Adds Injector support to Flask. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [svcs](https://github.com/hynek/svcs) ★152 -  Provides first-party integration for aiohttp, FastAPI, Flask, Pyramid, and Starlette.
-- [Wireup](https://github.com/maldoinc/wireup) ★35: Provides first-party integration for Flask
+- [svcs](https://github.com/hynek/svcs) ★152 - A Flexible Service Locator for Python. [🐍, MIT License].
+- [Wireup](https://github.com/maldoinc/wireup) ★35 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Pyramid-Wiring](https://github.com/veeti/pyramid_wiring) ★0 - . [🐍, MIT License].
 
 See also above.
