@@ -13,6 +13,8 @@
 ## Videos
 
 - [Loose Coupling & Dependency Injection the EASY Way!](https://www.youtube.com/watch?v=uWTvMCra-_Y) (Hynek Schlawack, 2024)
+- [Dependency Inversion: Write BETTER PYTHON CODE Part 2]([https://www.youtube.com/watch?v=2ejbLVkCndI](https://www.youtube.com/watch?v=Kv5jhbSkqLE)) (ArjanCodes, 2021)
+- [Dependency INVERSION vs Dependency INJECTION in Python](https://www.youtube.com/watch?v=2ejbLVkCndI) (ArjanCodes, 2021)
 
 
 ## Articles / blog posts
