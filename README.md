@@ -55,6 +55,7 @@
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★18 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★17 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [That Depends](https://github.com/modern-python/that-depends) ★6 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
 
 
 ### DI components of Web frameworks
