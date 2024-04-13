@@ -31,31 +31,31 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3204 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3243 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
 
 
 ## Software
 
 ### DI Frameworks / Containers
 
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3517 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [returns](https://github.com/dry-python/returns) ★3184 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
-- [Injector](https://github.com/alecthomas/injector) ★1150 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Inject](https://github.com/ivankorobkov/python-inject) ★622 - Python dependency injection. [🐍, Apache License 2.0].
-- [Dependencies](https://github.com/proofit404/dependencies) ★355 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
-- [Kink](https://github.com/kodemore/kink) ★302 - Dependency injection container made for Python. [🐍, MIT License].
-- [Punq](https://github.com/bobthemighty/punq) ★260 - An IoC container for Python 3.6+. [🐍, MIT License].
-- [di](https://github.com/adriangb/di) ★260 - Pythonic dependency injection. [🐍, MIT License].
-- [svcs](https://github.com/hynek/svcs) ★212 - A Flexible Service Locator for Python. [🐍, MIT License].
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★136 - Implementation of dependency injection for Python 3. [🐍, MIT License].
-- [injectable](https://github.com/allrod5/injectable) ★104 - Python Dependency Injection for Humans™. [🐍, MIT License].
-- [Antidote](https://github.com/Finistere/antidote) ★89 - Dependency injection for Python. [🐍, MIT License].
-- [Opyoid](https://github.com/illuin-tech/opyoid) ★58 - Dependency injection library for Python. [🐍, MIT License].
-- [Wireup](https://github.com/maldoinc/wireup) ★51 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3570 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [returns](https://github.com/dry-python/returns) ★3254 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
+- [Injector](https://github.com/alecthomas/injector) ★1182 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Inject](https://github.com/ivankorobkov/python-inject) ★646 - Python dependency injection. [🐍, Apache License 2.0].
+- [Dependencies](https://github.com/proofit404/dependencies) ★357 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
+- [Kink](https://github.com/kodemore/kink) ★319 - Dependency injection container made for Python. [🐍, MIT License].
+- [Punq](https://github.com/bobthemighty/punq) ★273 - An IoC container for Python 3.6+. [🐍, MIT License].
+- [di](https://github.com/adriangb/di) ★273 - Pythonic dependency injection. [🐍, MIT License].
+- [svcs](https://github.com/hynek/svcs) ★233 - A Flexible Service Locator for Python. [🐍, MIT License].
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★145 - Implementation of dependency injection for Python 3. [🐍, MIT License].
+- [injectable](https://github.com/allrod5/injectable) ★106 - Python Dependency Injection for Humans™. [🐍, MIT License].
+- [Antidote](https://github.com/Finistere/antidote) ★90 - Dependency injection for Python. [🐍, MIT License].
+- [Opyoid](https://github.com/illuin-tech/opyoid) ★59 - Dependency injection library for Python. [🐍, MIT License].
+- [Wireup](https://github.com/maldoinc/wireup) ★55 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★18 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
-- [andi](https://github.com/scrapinghub/andi) ★17 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [That Depends](https://github.com/modern-python/that-depends) ★6 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
+- [andi](https://github.com/scrapinghub/andi) ★18 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [That Depends](https://github.com/modern-python/that-depends) ★10 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
 
 
 ### DI components of Web frameworks
@@ -80,7 +80,7 @@ Several modern Python web frameworks include DI components, including:
 ### Integration with web frameworks
 
 - [Flask-Injector](https://github.com/alecthomas/flask_injector) ★264 - Adds Injector support to Flask. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [svcs](https://github.com/hynek/svcs) ★212 - A Flexible Service Locator for Python. [🐍, MIT License].
-- [Wireup](https://github.com/maldoinc/wireup) ★51 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
+- [svcs](https://github.com/hynek/svcs) ★233 - A Flexible Service Locator for Python. [🐍, MIT License].
+- [Wireup](https://github.com/maldoinc/wireup) ★55 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 
 See also above.
