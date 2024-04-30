@@ -31,23 +31,24 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3257 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3258 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
 
 
 ## Software
 
 ### DI Frameworks / Containers
 
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3593 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [returns](https://github.com/dry-python/returns) ★3279 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
-- [Injector](https://github.com/alecthomas/injector) ★1198 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Inject](https://github.com/ivankorobkov/python-inject) ★646 - Python dependency injection. [🐍, Apache License 2.0].
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3599 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [returns](https://github.com/dry-python/returns) ★3284 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
+- [Injector](https://github.com/alecthomas/injector) ★1199 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Inject](https://github.com/ivankorobkov/python-inject) ★648 - Python dependency injection. [🐍, Apache License 2.0].
 - [Dependencies](https://github.com/proofit404/dependencies) ★357 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
 - [Kink](https://github.com/kodemore/kink) ★324 - Dependency injection container made for Python. [🐍, MIT License].
 - [Punq](https://github.com/bobthemighty/punq) ★276 - An IoC container for Python 3.6+. [🐍, MIT License].
 - [di](https://github.com/adriangb/di) ★275 - Pythonic dependency injection. [🐍, MIT License].
 - [svcs](https://github.com/hynek/svcs) ★236 - A Flexible Service Locator for Python. [🐍, MIT License].
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★147 - Implementation of dependency injection for Python 3. [🐍, MIT License].
+- [Dishka](https://github.com/reagento/dishka) ★169 - Cute DI framework with agreeable API and everything you need
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★148 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★107 - Python Dependency Injection for Humans™. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★91 - Dependency injection for Python. [🐍, MIT License].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★62 - Dependency injection library for Python. [🐍, MIT License].
@@ -55,7 +56,7 @@
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★18 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★19 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [That Depends](https://github.com/modern-python/that-depends) ★13 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
+- [That Depends](https://github.com/modern-python/that-depends) ★14 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
 
 
 ### DI components of Web frameworks
