@@ -46,14 +46,14 @@
 - [Kink](https://github.com/kodemore/kink) ★324 - Dependency injection container made for Python. [🐍, MIT License].
 - [Punq](https://github.com/bobthemighty/punq) ★276 - An IoC container for Python 3.6+. [🐍, MIT License].
 - [di](https://github.com/adriangb/di) ★275 - Pythonic dependency injection. [🐍, MIT License].
+- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★246: Type based auto-wiring dependency injection with support for async and threading. [🐍, MIT License].
 - [svcs](https://github.com/hynek/svcs) ★236 - A Flexible Service Locator for Python. [🐍, MIT License].
-- [Dishka](https://github.com/reagento/dishka) ★169 - Cute DI framework with agreeable API and everything you need
+- [Dishka](https://github.com/reagento/dishka) ★169 - Cute DI framework with agreeable API and everything you need. [🐍, Apache License 2.0].
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★148 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★107 - Python Dependency Injection for Humans™. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★91 - Dependency injection for Python. [🐍, MIT License].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★62 - Dependency injection library for Python. [🐍, MIT License].
 - [Wireup](https://github.com/maldoinc/wireup) ★56 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
-- [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★18 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★19 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [That Depends](https://github.com/modern-python/that-depends) ★14 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
