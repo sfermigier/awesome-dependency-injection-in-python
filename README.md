@@ -25,8 +25,8 @@
 - ["(pytest) Fixtures: a prime example of dependency injection"](https://docs.pytest.org/en/latest/fixture.html#fixtures-a-prime-example-of-dependency-injection)
 - [Tests and comparison of Python dependency injection libraries](https://github.com/orsinium/dependency_injectors) ★3 - Tests and comparison of Python dependency injection libraries. [🐍, Unknown license].
 - [Typed Functional Dependency Injection in Python](https://sobolevn.me/2020/02/typed-functional-dependency-injection)
-- [DI patterns](https://lab.abilian.com/Tech/Architecture/Dependency%20Inversion/DI%20patterns/) (Abilian, 2024)
-- [DI anti-patterns](https://lab.abilian.com/Tech/Architecture/Dependency%20Inversion/DI%20anti-patterns/) (Abilian, 2024)
+- [DI patterns](https://lab.abilian.com/Tech/Architecture%20%26%20Design/Dependency%20Inversion/DI%20patterns/) (Abilian, 2024)
+- [DI anti-patterns](https://lab.abilian.com/Tech/Architecture%20%26%20Design/Dependency%20Inversion/DI%20anti-patterns/) (Abilian, 2024)
 
 
 ## Books
