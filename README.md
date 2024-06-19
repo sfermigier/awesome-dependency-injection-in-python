@@ -57,6 +57,7 @@
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★19 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★19 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [That Depends](https://github.com/modern-python/that-depends) ★49 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
+- [Picodi](https://github.com/yakimka/picodi) ★16 - A DI library inspired by FastAPI. It integrates well with FastAPI but can also be used independently. [🐍, MIT License].
 
 
 ### DI components of Web frameworks
