@@ -31,27 +31,27 @@
 
 ## Books
 
-- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3312 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/python-leap/book) ★3324 - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho. [🐍, Other license].
 
 
 ## Software
 
 ### DI Frameworks / Containers
 
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3692 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [returns](https://github.com/dry-python/returns) ★3375 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
-- [Injector](https://github.com/alecthomas/injector) ★1247 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Inject](https://github.com/ivankorobkov/python-inject) ★670 - Python dependency injection. [🐍, Apache License 2.0].
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) ★3715 - Dependency injection framework for Python. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [returns](https://github.com/dry-python/returns) ★3398 - Make your functions return something meaningful, typed, and safe!. [🐍, BSD 2-Clause "Simplified" License].
+- [Injector](https://github.com/alecthomas/injector) ★1255 - Python dependency injection framework, inspired by Guice. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Inject](https://github.com/ivankorobkov/python-inject) ★672 - Python dependency injection. [🐍, Apache License 2.0].
 - [Dependencies](https://github.com/proofit404/dependencies) ★358 - Constructor injection designed with OOP in mind. [🐍, BSD 2-Clause "Simplified" License].
-- [Kink](https://github.com/kodemore/kink) ★369 - Dependency injection container made for Python. [🐍, MIT License].
-- [Punq](https://github.com/bobthemighty/punq) ★290 - An IoC container for Python 3.6+. [🐍, MIT License].
-- [di](https://github.com/adriangb/di) ★286 - Pythonic dependency injection. [🐍, MIT License].
-- [svcs](https://github.com/hynek/svcs) ★255 - A Flexible Service Locator for Python. [🐍, MIT License].
+- [Kink](https://github.com/kodemore/kink) ★376 - Dependency injection container made for Python. [🐍, MIT License].
+- [Punq](https://github.com/bobthemighty/punq) ★291 - An IoC container for Python 3.6+. [🐍, MIT License].
+- [di](https://github.com/adriangb/di) ★288 - Pythonic dependency injection. [🐍, MIT License].
+- [svcs](https://github.com/hynek/svcs) ★260 - A Flexible Service Locator for Python. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★246: Type based auto-wiring dependency injection with support for async and threading. [🐍, MIT License].
-- [Dishka](https://github.com/reagento/dishka) ★258 - Cute DI framework with agreeable API and everything you need. [🐍, Apache License 2.0].
-- [Rodi](https://github.com/RobertoPrevato/rodi) ★167 - Implementation of dependency injection for Python 3. [🐍, MIT License].
-- [injectable](https://github.com/allrod5/injectable) ★107 - Python Dependency Injection for Humans™. [🐍, MIT License].
-- [That Depends](https://github.com/modern-python/that-depends) ★94 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
+- [Dishka](https://github.com/reagento/dishka) ★289 - Cute DI framework with agreeable API and everything you need. [🐍, Apache License 2.0].
+- [Rodi](https://github.com/RobertoPrevato/rodi) ★169 - Implementation of dependency injection for Python 3. [🐍, MIT License].
+- [injectable](https://github.com/allrod5/injectable) ★106 - Python Dependency Injection for Humans™. [🐍, MIT License].
+- [That Depends](https://github.com/modern-python/that-depends) ★98 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★63 - Dependency injection library for Python. [🐍, MIT License].
 - [Wireup](https://github.com/maldoinc/wireup) ★71 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★20 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
