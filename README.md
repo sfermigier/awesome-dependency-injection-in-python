@@ -56,7 +56,10 @@
 - [Wireup](https://github.com/maldoinc/wireup) ★71 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★20 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★20 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [injection](https://github.com/nightblure/injection) - replacement for [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) 
+that works with Python 3.8-3.12 and works with FastAPI, DRF, Flask and Litestar [🐍, MIT License]. 
 - [Clean IoC](https://github.com/peter-daly/clean_ioc) ★8 - A simple unintrusive dependency injection library for python with strong support for generics [🐍, MIT License].
+
 ### DI components of Web frameworks
 
 Several modern Python web frameworks include DI components, including:
