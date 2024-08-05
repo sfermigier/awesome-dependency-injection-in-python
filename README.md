@@ -48,6 +48,7 @@
 - [Punq](https://github.com/bobthemighty/punq) ★293 - An IoC container for Python 3.6+. [🐍, MIT License].
 - [di](https://github.com/adriangb/di) ★290 - Pythonic dependency injection. [🐍, MIT License].
 - [svcs](https://github.com/hynek/svcs) ★266 - A Flexible Service Locator for Python. [🐍, MIT License].
+- [FastDepends](https://github.com/lancetnik/FastDepends) ★254 - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★246: Type based auto-wiring dependency injection with support for async and threading. [🐍, MIT License].
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★174 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [That Depends](https://github.com/modern-python/that-depends) ★112 - simple DI-framework, inspired by python-dependency-injector, but without wiring [🐍, MIT License].
