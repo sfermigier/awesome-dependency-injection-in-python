@@ -1,10 +1,7 @@
 # Awesome Dependency Injection in Python
-
 > A curated list of awesome things related to dependency inversion / dependency injection in Python.
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-
+> 
 ## Talks / slides
 
 - **Python Dependency Injection** [(PDF)](http://www.aleax.it/yt_pydi.pdf) (Alex Martelli, 2008).
