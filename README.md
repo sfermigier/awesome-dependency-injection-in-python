@@ -60,6 +60,7 @@
 - [Picodi](https://github.com/yakimka/picodi) ★22 - A DI library inspired by FastAPI. It integrates well with FastAPI but can also be used independently. [🐍, MIT License].
 - [Clean IoC](https://github.com/peter-daly/clean_ioc) ★9 - A simple unintrusive dependency injection library for python with strong support for generics [🐍, MIT License].
 - [injection](https://github.com/nightblure/injection) ★6 - replacement for [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) that works with Python 3.8-3.12 and works with FastAPI, DRF, Flask and Litestar [🐍, MIT License].
+- [Modern DI](https://github.com/modern-python/modern-di) ★3 - powerful DI-framework with scopes and IoC-container [🐍, MIT License].
 
 ### DI components of Web frameworks
 
