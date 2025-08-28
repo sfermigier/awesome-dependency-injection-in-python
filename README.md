@@ -59,7 +59,8 @@
 - [andi](https://github.com/scrapinghub/andi) ★22 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★22 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [ididi](https://github.com/raceychan/ididi) ★20  - Genius simplicity, unmathced power, dependency injection in a single line of code. [🐍, MIT License]
-- [injection](https://github.com/nightblure/injection) ★16 - replacement for [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) that works with Python 3.8-3.12 and works with FastAPI, DRF, Flask and Litestar [🐍, MIT License].
+- [injection](https://github.com/nightblure/injection) ★15 - replacement for [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) that works with Python 3.8-3.12 and works with FastAPI, DRF, Flask and Litestar [🐍, MIT License].
+- [engin](https://github.com/invokermain/engin) ★13 - a dependency injection powered application framework, inspired by [Uber's fx framework](https://github.com/uber-go/fx). [🐍, MIT License].
 - [Clean IoC](https://github.com/peter-daly/clean_ioc) ★11 - A simple unintrusive dependency injection library for python with strong support for generics [🐍, MIT License].
 
 ### DI components of Web frameworks
