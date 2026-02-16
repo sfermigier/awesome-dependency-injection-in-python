@@ -54,6 +54,7 @@
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★230 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★119 - Python Dependency Injection for Humans™. [🐍, MIT License].
 - [python-injection](https://github.com/100nm/python-injection) ★107 - Dead-simple dependency injection framework for Python. [🐍, MIT License].
+- [diwire](https://github.com/maksimzayats/diwire) ★100 - Type-safe dependency injection for Python with auto-wiring, scopes, async factories, and zero deps [🐍, MIT License].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★75 - Dependency injection library for Python. [🐍, MIT License].
 - [Modern DI](https://github.com/modern-python/modern-di) ★43 - powerful DI-framework with scopes and IoC-container [🐍, MIT License].
 - [Picodi](https://github.com/yakimka/picodi) ★27 - A DI library inspired by FastAPI. It integrates well with FastAPI but can also be used independently. [🐍, MIT License].
