@@ -65,6 +65,7 @@
 - [injection](https://github.com/nightblure/injection) ★18 - replacement for [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) that works with Python 3.8-3.12 and works with FastAPI, DRF, Flask and Litestar [🐍, MIT License].
 - [Clean IoC](https://github.com/peter-daly/clean_ioc) ★10 - A simple unintrusive dependency injection library for python with strong support for generics [🐍, MIT License].
 - [Overlay](https://github.com/Atry/MIXINv2) ★6 - A dependency injection framework with pytest-fixture syntax, plus a configuration language for declarative programming [🐍, MIT License].
+- [Injex](https://github.com/vshulcz/injex) ★6 - Tiny typed dependency injection container with constructor injection, singleton/transient/scoped lifetimes, test overrides, and graph validation before startup. Zero runtime dependencies. [🐍, MIT License].
 
 ### DI components of Web frameworks
 
