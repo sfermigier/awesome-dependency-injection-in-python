@@ -67,6 +67,7 @@
 - [Clean IoC](https://github.com/peter-daly/clean_ioc) ★12 - A simple unintrusive dependency injection library for python with strong support for generics [🐍, MIT License].
 - [Overlay](https://github.com/Atry/MIXINv2) ★6 - A dependency injection framework with pytest-fixture syntax, plus a configuration language for declarative programming [🐍, MIT License].
 - [nuke-di](https://github.com/troyan-dy/nuke-di) ★5 - Type-hint based DI for async Python: a dependency is a class with `connect()` / `disconnect()`, every client connects as soon as its own dependencies have, concurrently, and disconnects in reverse order. A mypy plugin reports an unbuildable tree, `mock()` / `override()` replace clients in tests, `@job` / `@worker` turn an async function into a process with command-line options and graceful shutdown, and FastAPI, Litestar, FastStream, aiogram, taskiq and MCP handlers take clients by type hint. Zero runtime dependencies. [🐍, MIT License].
+- [Quadkit](https://github.com/dbtinoy-/quadkit) ★2 - Contract-driven application framework built around an async DI container with modules, scopes, and typed configuration. [🐍, Apache License 2.0].
 - [cdi-di](https://github.com/dsal3389/cdi) ★0 - powerful python dependency injection, support generics, circular dep, lifetimes and more [🐍, MIT License].
 
 ### DI components of Web frameworks
